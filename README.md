@@ -3,4 +3,4 @@ url-encode-decode
 
 Simple URL encoder/decoder
 
-Use it here: http://fregadev.github.io/url-encode-decode
+Use it here: http://betofrega.github.io/url-encode-decode
